@@ -1,23 +1,7 @@
-# Emotion Detection using Watson NLP
+<h1 align="center"> IBM Full Stack Software Developer Certificate <br> Developing AI Applications with Python and Flask </h1>
 
-## Project Overview
-This project is a web application that uses IBM Watson NLP's EmotionPredict 
-function to analyze text input and detect the emotions expressed within it 
-(joy, sadness, anger, fear, disgust). The application is built with Python 
-and deployed using the Flask web framework.
+## Emotion Detector
 
-## Features
-- Detects five emotions from text: anger, disgust, fear, joy, and sadness
-- Identifies the dominant emotion
-- Formatted, human-readable output
-- Robust error handling for blank or invalid input
-- Web interface built with Flask
-- Includes unit tests and static code analysis (PEP8)
+This is the final project within the course, "Developing AI Applications with Python and Flask" in the IBM Full Stack Software Developer Certificate. The objective of this project is to develop an AI-based Flask Web Application which will allow a user to provide a text string as input and receive a response from the AI which will tell the user what emotion is being conveyed in that text string.
 
-## Tech Stack
-- Python
-- Flask
-- IBM Watson NLP Library
-
-## Author
-selim bouzrara
+More information about the course can be found [here](https://www.coursera.org/learn/python-project-for-ai-application-development/)
